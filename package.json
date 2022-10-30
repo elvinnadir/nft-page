@@ -1,0 +1,42 @@
+{
+  "name": "nft-page",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@types/typescript": "^2.0.0",
+    "aos": "^2.3.4",
+    "bootstrap": "^5.2.2",
+    "clsx": "^1.2.1",
+    "image-webpack-loader": "^4.2.0",
+    "img-loader": "^4.0.0",
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.5.0",
+    "react-bootstrap-accordion": "^1.0.0",
+    "react-countup": "^6.3.2",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.4.2",
+    "react-tabs": "^5.1.0",
+    "sass": "^1.55.0",
+    "sass-loader": "^13.1.0",
+    "swiper": "^8.4.4"
+  },
+  "devDependencies": {
+    "@types/aos": "^3.0.4",
+    "@types/node": "^18.11.7",
+    "@types/react": "^18.0.22",
+    "@types/react-dom": "^18.0.7",
+    "@vitejs/plugin-react": "^2.2.0",
+    "css-loader": "^6.7.1",
+    "node-sass": "^7.0.3",
+    "style-loader": "^3.3.1",
+    "typescript": "^4.6.4",
+    "vite": "^3.2.0"
+  }
+}
